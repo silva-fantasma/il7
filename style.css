@@ -377,15 +377,14 @@ h1 {
   height: auto;
   opacity: 1;
   width: fit-content;
-    margin-left: 11vw;
+    margin-left: 9vw;
 
     cursor: pointer;
-    background-color: #ad200051;
-    border-radius: 200px;
+    background-color: #edcbc351;
+    border-radius: 0px 20px 0px 20px;
     padding:  0.5vw;
     font-size: 1vw;
 }
-
 
 
 
